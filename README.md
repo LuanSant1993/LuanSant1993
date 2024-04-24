@@ -1,8 +1,8 @@
-### Hi there 👋 , I´am Luan Santos
+### Olá 👋 , Eu Sou Luan Santos 😎 !
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LuanSant1993&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=LuanSant1993&show_icons=true&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
   <source
