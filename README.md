@@ -12,6 +12,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LuanSant1993&show_icons=true" />
 </picture>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanSant1993&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
