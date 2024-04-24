@@ -14,7 +14,7 @@
   
 </picture>
 
-<br><br><br>
+<br>
 
 👋 Olá! Me chamo Luan e sou apaixonado por tecnologia. Atualmente, estou residindo na bela cidade de Balneário Camboriú-SC. No início de 2023, iniciei minha jornada na Faculdade Digital Descomplica, imergindo no curso de Engenharia da Computação.
 
