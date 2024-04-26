@@ -1,6 +1,7 @@
-<h1 align="left" style="position: relative; display: inline-block; font-family: Righteous; font-size: 35px;">
-    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='500' height='70'%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%23ffffff' font-family='Righteous' font-size='35'%3EOlá!%20👋;%20Sou%20Luan%20Santos!%3C/text%3E%3C/svg%3E" style="position: absolute; top: 1px; left: 1px; z-index: -1;">
-    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='500' height='70'%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%23FF5733' font-family='Righteous' font-size='35'%3EOlá!%20👋;%20Sou%20Luan%20Santos!%3C/text%3E%3C/svg%3E" style="position: relative; color: white;">
+<h1 align="left" style="font-family: Righteous; font-size: 35px; position: relative;">
+    <span style="background: linear-gradient(45deg, black, yellow); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+        Olá! 👋 Sou Luan Santos!
+    </span>
 </h1>
 
 
