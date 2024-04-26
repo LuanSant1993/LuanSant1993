@@ -41,16 +41,12 @@
 <div>
 <a href="https://www.linkedin.com/in/luan-santos-361480257/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-
-  ##
-
-  ![snake gif](https://github.com/LuanSant1993/LuanSant1993/blob/output/github-contribution-grid-snake.gif)
 </a>  
 <a href="mailto:luan10091993@hotmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook">
 </a>
 
-
+![snake gif](https://github.com/LuanSant1993/LuanSant1993/blob/output/github-contribution-grid-snake.gif)
 
   
 </div>
