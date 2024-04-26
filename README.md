@@ -1,6 +1,8 @@
-<h1 align="left" style="background-image: linear-gradient(45deg, #000000, #FFFF00); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Luan+Santos!;" />
+<h1 align="left" style="font-family: Righteous; font-size: 35px; position: relative;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Luan+Santos!;" style="position: absolute; top: 0; left: 0; color: black; z-index: 2;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Luan+Santos!;" style="position: absolute; top: 1px; left: 1px; color: yellow; z-index: 1;">
 </h1>
+
 
 
 <picture>
