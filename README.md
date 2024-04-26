@@ -1,7 +1,5 @@
-<h1 align="left" style="font-family: Righteous; font-size: 35px; position: relative;">
-    <span style="background: linear-gradient(45deg, black, yellow); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-        Olá! 👋 Sou Luan Santos!
-    </span>
+<h1 align="left" color= "white">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Jair+Redigolo+Junior!;" />
 </h1>
 
 
