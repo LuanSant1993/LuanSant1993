@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=comic+sans&weight=500&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Ol%C3%A1+%F0%9F%98%8E+Sou+%2C+Luan+Santos!" alt="Typing SVG" /></a>
 </h1>
 
-![snake gif](https://github.com/LuanSant1993/LuanSant1993/blob/output/github-contribution-grid-snake.gif)
+
 
 <picture>
   <source
@@ -41,6 +41,10 @@
 <div>
 <a href="https://www.linkedin.com/in/luan-santos-361480257/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+
+  ##
+
+  ![snake gif](https://github.com/LuanSant1993/LuanSant1993/blob/output/github-contribution-grid-snake.gif)
 </a>  
 <a href="mailto:luan10091993@hotmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook">
